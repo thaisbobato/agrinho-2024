@@ -7,3 +7,14 @@ body{
     color:rgb(8, 134, 92);
     font-family: 'Chakra Petch', sans-serif;
 }
+
+titulo-principal {
+    text-align: left;
+    width: 100%;
+    font-size: 34px;
+
+}
+
+.titulo-principal span {
+    color:rgb(0, 0, 148);
+}
