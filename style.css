@@ -2,14 +2,8 @@
     --cor-de-fundo: #ffc1c1;
     --texto-fundo: #7417ccfd;
 }
-
-titulo-principal {
-    text-align: left;
-    width: 100%;
-    font-size: 32px;
-
-}
-
-.titulo-principal span {
-    color: var(--verde);
+body{ 
+    background-color: rgb(15, 248, 170);
+    color:rgb(8, 134, 92);
+    font-family: 'Chakra Petch', sans-serif;
 }
