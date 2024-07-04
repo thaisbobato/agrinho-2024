@@ -2,3 +2,14 @@
     --cor-de-fundo: #ffc1c1;
     --texto-fundo: #7417ccfd;
 }
+
+titulo-principal {
+    text-align: left;
+    width: 100%;
+    font-size: 32px;
+
+}
+
+.titulo-principal span {
+    color: var(--verde);
+}
