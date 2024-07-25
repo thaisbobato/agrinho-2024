@@ -1,6 +1,6 @@
 :root{
-    --cor-de-fundo: #ffc1c1;
-    --texto-fundo: #7417ccfd;
+    --cor-de-fundo: #f05252;
+    --texto-fundo: #df31b9fd;
 }
 body{ 
     background-color: rgb(15, 248, 170);
@@ -16,5 +16,5 @@ titulo-principal {
 }
 
 .titulo-principal{ 
-    color:rgb(0, 0, 148);
+    color:rgb(0, 0, 214);
 }
