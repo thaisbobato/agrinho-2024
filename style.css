@@ -1,6 +1,6 @@
 :root{
     --cor-de-fundo: #f05252;
-    --texto-fundo: #df31b9fd;
+    --texto-fundo: #000000fd;
 }
 body{ 
     background-color: rgb(250, 81, 81);
