@@ -12,10 +12,10 @@ titulo-principal {
     text-align: left;
     width: 100%;
     font-size: 34px;
-    justify-content:center;
  
 }
 
 .titulo-principal{ 
     color:rgb(214, 0, 0);
+    justify-content:center;
 }
