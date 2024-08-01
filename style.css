@@ -17,5 +17,5 @@ titulo-principal {
 
 .titulo-principal{ 
     color:rgb(214, 0, 0);
-    justify-content:center;
+    display: flex
 }
